@@ -4,6 +4,6 @@ git clone https://github.com/SHAMIM-CYBER/AUTO-SHARE.git
 
 cd AUTO-SHARE
 
-ls
+ls 
 
 python AUTO-SHARE.py
